@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shyamsundar aka Humblefo0L
 - 👀 I’m interested in Web application development, Problem Solving as well as Football.
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Java, Spring Boot
 - 💞️ I’m looking to collaborate on Fullstack applications as well as C++ projects.
 - 📫 How to reach me 
 
